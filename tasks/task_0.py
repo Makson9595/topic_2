@@ -1,1 +1,5 @@
-print(...)  # допишите код
+print("Hello, world!", "Hello, world!", "Hello, world!", "Hello, world!",
+"Hello, world!","Hello, world!", "Hello, world!", "Hello, world!", "Hello, world!",
+"Hello, world!", sep='\n')
+
+
